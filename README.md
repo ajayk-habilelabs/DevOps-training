@@ -1,11 +1,4 @@
-LLL
-
-B
 # DevOps-training
-B
-B
-
-C
 ##Welcome To Devops Series
 
 ## DevOps `Developer and Operation` 👍
