@@ -1,5 +1,5 @@
 # DevOps-training
-##Welcome To Devops Series
+## Welcome To Devops Series
 
 ## DevOps `Developer and Operation` 👍
 
@@ -32,4 +32,4 @@
 
 - **Rapid Innovation** - Teams looking for ways to provide feedback back into the development, test, packaging & deployment stages to complete the loop to integrate dev and ops teams and provide real time feedback from production environments and customers.
 
-###End
+### End
