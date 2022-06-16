@@ -1,0 +1,19 @@
+{
+  "name": "ajay-testing-devops",
+  "version": "1.0.0",
+  "description": "## DevOps `Developer and Operation` 👍",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajayk-habilelabs/DevOps-training.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajayk-habilelabs/DevOps-training/issues"
+  },
+  "homepage": "https://github.com/ajayk-habilelabs/DevOps-training#readme"
+}
